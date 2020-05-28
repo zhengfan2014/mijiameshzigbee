@@ -1,0 +1,2 @@
+# mijiameshzigbee
+米家支持蓝牙mesh网关和zigbee的整理列表
