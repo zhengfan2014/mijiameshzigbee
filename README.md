@@ -15,7 +15,7 @@ clone然后修改列表，向本项目发起合并请求
 Aqara空调伴侣升级版 | 支持 | | 支持 | 支持 | | https://www.xiaomiyoupin.com/detail?gid=101229
 飞利浦智睿床头灯 | 支持 | 支持 | | | |  https://www.xiaomiyoupin.com/detail?gid=102761
 米家LED吸顶灯 | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=103048
-小米小爱智能闹钟 | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=103705
+小米小爱智能闹钟 | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=103705
 Aqara网关 | 支持 | | | 支持 | | https://www.xiaomiyoupin.com/detail?gid=104350
 小米小爱音箱HD | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=104914
 小米小爱触屏音箱 | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=105569
