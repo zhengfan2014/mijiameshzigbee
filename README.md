@@ -21,8 +21,8 @@ Aqara网关 | 支持 | | | 支持 | | https://www.xiaomiyoupin.com/detail?gid=10
 小米小爱触屏音箱 | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=105569
 Aqara智能摄像机G2(网关版) | 支持 | | | 支持| | https://www.xiaomiyoupin.com/detail?gid=105741
 米家空调伴侣2 | 支持 | | 阉割版，只支持空调 | | | https://www.xiaomiyoupin.com/detail?gid=106616
-小米小爱音箱万能遥控版 | 支持 
-小米小爱音箱play | 支持
+小米小爱音箱万能遥控版 | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=107496
+小米小爱音箱play | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=108117
 小米小爱音箱 | 支持
 小米小爱音箱pro | 支持
 鹿客智能指纹锁推拉款P3 | 支持
