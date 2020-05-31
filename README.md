@@ -1,5 +1,13 @@
 # mijiameshzigbee
-米家支持蓝牙mesh网关和zigbee的整理列表
+## 恰饭链接
+https://afdian.net/@zhengfan2014
+## 列表有错？
+提交issue
+## 提交本列表没有的米家产品
+clone然后修改列表，向本项目发起合并请求
+
+## 米家支持蓝牙mesh网关和zigbee的整理列表
+
 名称 | wifi | 蓝牙mesh | 红外 | zigbee网关 | 其他 | 链接
 ----| ----- | -------- | ----| ---------- | ---- | ----
 小米AI音箱 | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=100328
