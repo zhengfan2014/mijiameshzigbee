@@ -18,7 +18,7 @@ Aqara空调伴侣升级版 | 支持 | | 支持 | 支持 | | https://www.xiaomiyo
 小米小爱智能闹钟 | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=103705
 Aqara网关 | 支持 | | | 支持 | | https://www.xiaomiyoupin.com/detail?gid=104350
 小米小爱音箱HD | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=104914
-小米小爱触屏音箱 | 支持 | | | | | https://www.xiaomiyoupin.com/detail?gid=105569
+小米小爱触屏音箱 | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=105569
 Aqara智能摄像机G2(网关版) | 支持 | | | 支持| | https://www.xiaomiyoupin.com/detail?gid=105741
 米家空调伴侣2 | 支持 | | 阉割版，只支持空调 | | | https://www.xiaomiyoupin.com/detail?gid=106616
 小米小爱音箱万能遥控版 | 支持 | 支持 | | | | https://www.xiaomiyoupin.com/detail?gid=107496
